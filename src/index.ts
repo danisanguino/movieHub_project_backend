@@ -13,5 +13,5 @@ expressApp.listen(PORT, async () =>{
     } catch (error) {
         console.log("error to connect, please try again")
     }
-} )
+} );
 
